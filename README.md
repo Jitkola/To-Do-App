@@ -7,12 +7,12 @@ It allows users to **add, delete, and clear tasks** from a list using a clean an
 ---
 
 ## Features
-✅ Add new tasks  
-✅ Delete selected tasks  
-✅ Clear all tasks  
-✅ Scrollable task list  
-✅ User-friendly error messages  
-✅ Dark-themed interface
+. Add new tasks  
+. Delete selected tasks  
+. Clear all tasks  
+. Scrollable task list  
+ 
+ 
 
 ---
 
