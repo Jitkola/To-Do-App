@@ -1,12 +1,12 @@
-# 📝 Java To-Do List Application (GUI)
+# Java To-Do List Application (GUI)
 
-## 📌 Overview
+## Overview
 This is a simple **To-Do List Application** built using **Java Swing**.  
 It allows users to **add, delete, and clear tasks** from a list using a clean and interactive graphical interface.
 
 ---
 
-## 🎯 Features
+## Features
 ✅ Add new tasks  
 ✅ Delete selected tasks  
 ✅ Clear all tasks  
@@ -16,14 +16,14 @@ It allows users to **add, delete, and clear tasks** from a list using a clean an
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Language:** Java  
 - **Framework:** Swing (Built-in Java GUI library)  
 - **IDE:** VS Code 
 
 ---
 
-## 🧩 Components Used
+## Components Used
 | Component | Purpose |
 |------------|----------|
 | `JFrame` | Main application window |
@@ -37,7 +37,7 @@ It allows users to **add, delete, and clear tasks** from a list using a clean an
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Open the project in **IntelliJ IDEA** or **VS Code** or any IDE.
 2. Make sure you have **JDK 8 or above** installed.
 3. Create a new file named `ToDoApp.java` and paste the code.
